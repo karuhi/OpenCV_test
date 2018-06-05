@@ -1,2 +1,3 @@
 ﻿  OpenCV_test.cpp
+c:\users\hikaru\source\repos\opencv_test\opencv_test\opencv_test.cpp(117): warning C4700: 初期化されていないローカル変数 'threshold_total' が使用されます
   OpenCV_test.vcxproj -> C:\Users\hikaru\source\repos\OpenCV_test\x64\Debug\OpenCV_test.exe
